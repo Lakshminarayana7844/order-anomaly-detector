@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+model.pkl
+model.pkl.features
+model.pkl.reasons
+.pytest_cache/
