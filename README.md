@@ -1,4 +1,4 @@
-# SAP Order Anomaly Detector
+# Order Anomaly Detector
 
 A small, self-contained ML service that flags unusual sales orders from an
 SAP SD-style extract (VBAK/VBAP shape). It trains an IsolationForest on
